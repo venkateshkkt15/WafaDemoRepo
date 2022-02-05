@@ -1,0 +1,9 @@
+{
+	"name": "ADFgitWafaDemo",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d50ebcac-5636-43c4-bf3f-fbcfdc01f661",
+		"tenantId": "38436ff6-d30c-4c78-9dbe-e1973e2a6afe"
+	}
+}
