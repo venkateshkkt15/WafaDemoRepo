@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "ADFgitWafaDemo"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
+		"LinkedServiceGit_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
